@@ -1,5 +1,5 @@
 # React weather app
-App powered by React, TailWind, Swr, PropType and Vite.
+One of my old apps powered by React, TailWind, Swr, PropType and Vite.
 
 ## Available Scripts
 Check by npm run.
